@@ -4,69 +4,69 @@
     "question": "Qu'est-ce qu'un ordinateur ?",
     "choix": ["Une machine électronique qui traite des informations", "Un appareil photo", "Un instrument de musique", "Un véhicule"],
     "reponse": "Une machine électronique qui traite des informations",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HDD_icon.svg/240px-HDD_icon.svg.png"
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&q=80"
   },
   {
     "id": 2,
     "question": "Quel composant est le cerveau de l'ordinateur ?",
     "choix": ["RAM", "CPU", "GPU", "SSD"],
     "reponse": "CPU",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Intel_80486DX2_bottom.jpg/240px-Intel_80486DX2_bottom.jpg"
+    "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=400&q=80"
   },
   {
     "id": 3,
     "question": "Quel système d'exploitation est développé par Microsoft ?",
     "choix": ["Linux", "MacOS", "Windows", "Android"],
     "reponse": "Windows",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/240px-Windows_logo_-_2012.svg.png"
+    "image": "https://images.unsplash.com/photo-1624571409108-e9a41744b65e?w=400&q=80"
   },
   {
     "id": 4,
     "question": "Que signifie WWW ?",
     "choix": ["World Wide Web", "World War Web", "Wide World Web", "Web Wide World"],
     "reponse": "World Wide Web",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Www_logo_2022.svg/240px-Www_logo_2022.svg.png"
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&q=80"
   },
   {
     "id": 5,
     "question": "Quel langage est utilisé pour Android ?",
     "choix": ["Python", "Swift", "Java", "PHP"],
     "reponse": "Java",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/240px-Java_programming_language_logo.svg.png"
+    "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=400&q=80"
   },
   {
     "id": 6,
     "question": "Que signifie RAM ?",
     "choix": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Remote Access Memory"],
     "reponse": "Random Access Memory",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Swissbit_2GB_PC2-5300U-555.jpg/240px-Swissbit_2GB_PC2-5300U-555.jpg"
+    "image": "https://images.unsplash.com/photo-1562976540-1502c2145186?w=400&q=80"
   },
   {
     "id": 7,
     "question": "Quel protocole est utilisé pour naviguer sur internet ?",
     "choix": ["FTP", "SMTP", "HTTP", "SSH"],
     "reponse": "HTTP",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/240px-HTTP_logo.svg.png"
+    "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=400&q=80"
   },
   {
     "id": 8,
     "question": "Quel est le système d'exploitation de Apple pour iPhone ?",
     "choix": ["Android", "iOS", "Windows Phone", "HarmonyOS"],
     "reponse": "iOS",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo_2017.svg/240px-IOS_logo_2017.svg.png"
+    "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=400&q=80"
   },
   {
     "id": 9,
     "question": "Combien de bits contient un octet ?",
     "choix": ["4", "8", "16", "32"],
     "reponse": "8",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Binary_code.svg/240px-Binary_code.svg.png"
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
   },
   {
     "id": 10,
     "question": "Quel langage est principalement utilisé pour les pages web ?",
     "choix": ["Python", "Java", "HTML", "C++"],
     "reponse": "HTML",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png"
+    "image": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?w=400&q=80"
   }
 ]
