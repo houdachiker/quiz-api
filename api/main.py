@@ -22,7 +22,7 @@ class Question(BaseModel):
     image: Optional[str] = None
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_FILE = os.path.join(BASE_DIR, "questions.json")
+DATA_FILE = os.path.join(BASE_DIR, "..", "questions.json")
 
 def load_questions():
     try:
