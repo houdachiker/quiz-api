@@ -21,7 +21,8 @@ class Question(BaseModel):
     reponse: str
     image: Optional[str] = None
 
-DATA_FILE = os.path.join(os.path.dirname(__file__), "questions.json")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_FILE = os.path.join(BASE_DIR, "questions.json")
 
 def load_questions():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
