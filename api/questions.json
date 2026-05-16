@@ -13,13 +13,13 @@
     "reponse": "CPU",
     "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=400&q=80"
   },
-  {
+ {
     "id": 3,
     "question": "Quel système d'exploitation est développé par Microsoft ?",
     "choix": ["Linux", "MacOS", "Windows", "Android"],
     "reponse": "Windows",
-    "image": "https://images.unsplash.com/photo-1624571409108-e9a41744b65e?w=400&q=80"
-  },
+    "image": "https://res.cloudinary.com/dtrgylkjc/image/upload/windows2_w7typu.png"
+},
   {
     "id": 4,
     "question": "Que signifie WWW ?",
